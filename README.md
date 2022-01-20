@@ -12,13 +12,13 @@ The dapp is build and tested using kovan testnetwork.
 
 # METAMASK Integration
 
-![Alt text](./helpful_screenshots/MetaMask Integration.png)
+![Alt text](./helpful_screenshots/MetaMaskIntegration.png)
 
 # Staking Tokens
 
-![Alt text](./helpful_screenshots/Stake Dapp Token.png)
+![Alt text](./helpful_screenshots/StakeDappToken.png)
 
-![Alt text](./helpful_screenshots/Loading for Mining.png)
+![Alt text](./helpful_screenshots/LoadingforMining.png)
 
 # TOKEN Staked
 
